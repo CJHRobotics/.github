@@ -62,4 +62,4 @@ Medical Robotics                      ·      Robotics Education & Curriculum
 
 <div align="center">
 
-*Maintained by [Chance Hamilton](https://github.com/chamilton4) &nbsp;·&nbsp; USF BioRobotics Lab*
+*Maintained by [Chance J. Hamilton](https://github.com/chamilton4) &nbsp;·&nbsp; USF BioRobotics Lab*
